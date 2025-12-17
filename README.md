@@ -5,7 +5,7 @@ This userscript, combined with uBlock Origin Lite, blocks ads and the "Ad blocke
 ## Requirements
 - Install these two extensions from the Chrome Web Store:
   - [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)
-  - [uBlock Origin Lite](https://chrome.google.com/webstore/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcpfecfmjg)
+  - [uBlock Origin Lite](https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh?hl=en)
 
 ## Step 1: Install the Tampermonkey Userscript
 1. Copy the script code from the main file in this repository.
