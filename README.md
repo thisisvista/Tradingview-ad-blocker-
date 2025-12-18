@@ -27,4 +27,4 @@ tradingview.com##div[class*="dialog"]:has-text(/Ad blocker detected/)
 tradingview.com##div:has-text(/Ad blocker detected/)
 ```
 
-4. Click **Apply changes**.
+4. Click **Apply changes**. 
